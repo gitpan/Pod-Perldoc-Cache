@@ -56,7 +56,7 @@
    "provides" : {
       "Pod::Perldoc::Cache" : {
          "file" : "lib/Pod/Perldoc/Cache.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -70,5 +70,5 @@
          "web" : "https://github.com/addsict/Pod-Perldoc-Cache"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

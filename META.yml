@@ -28,11 +28,11 @@ no_index:
 provides:
   Pod::Perldoc::Cache:
     file: lib/Pod/Perldoc/Cache.pm
-    version: 0.01
+    version: 0.02
 requires:
   perl: 5.008005
 resources:
   bugtracker: https://github.com/addsict/Pod-Perldoc-Cache/issues
   homepage: https://github.com/addsict/Pod-Perldoc-Cache
   repository: git://github.com/addsict/Pod-Perldoc-Cache.git
-version: 0.01
+version: 0.02
